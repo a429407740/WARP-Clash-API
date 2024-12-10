@@ -1,0 +1,1 @@
+docker run -p 21001:3000 -v ./account:/app/account -v ./logs:/app/logs vvbbnn00/warp-clash-api:latest
